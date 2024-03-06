@@ -1,0 +1,331 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #13131F;
+    
+}
+img{
+    width: 1290px;
+    height: 340px;
+    margin-top: 39px;
+    margin-left: 90px;
+}
+#header-link{
+margin-left: 470px;
+}
+
+.link{
+    color: white;
+    margin: 10px 165px 0 0px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.link:hover{
+    background-color: cadetblue;
+}
+
+#separado{
+    color: blueviolet;
+    position: relative;
+    top: 22px;
+    left: 90px;
+    font-family:Lexend Deca;
+font-weight:400;
+font-size: 24px;
+line-height:30px;
+}
+
+h1{
+    color: #000754;
+    position: absolute;
+    top: 207px;
+    left: 205px;
+}
+h3{
+    color: #000754;
+    width: 391px;
+    position: absolute;
+    top: 274px;
+    left: 135px;
+    font-family: Inter;
+    font-size: 20px;
+    line-height: 32px;
+    text-align: left;
+}
+
+#search{
+    font-family: Lexend Deca;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: left;
+    width: 1290px;
+    height: 50px;
+    margin-left: 93px;
+    margin-top: 40px;
+    color: #989898;
+    background-color: #282830;
+    border: none;
+    padding-left: 30px;
+}
+.wraper1{
+    display: flex;
+flex-direction: column;}
+.image1{
+    width: 300px;
+    height: 200px;
+}
+.wraper2{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 522px;
+    left: 330px;}
+.image2{
+    width: 300px;
+    height: 200px;
+}
+.wraper3{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top:522px;
+    right: 460px;
+}
+.image3{
+    width: 300px;
+    height: 200px;  
+}
+.wraper4{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top:522px;
+    right:130px ;}
+.image4{
+    width: 300px;
+    height: 200px;  
+}
+.botoes-final{
+    margin-top: 78px;
+    text-align: center;}
+.button{
+    width: 25px;
+    height: 25px;
+    font-family: Inter;
+font-size: 18px;
+font-weight: 600;
+line-height: 20px;
+text-align: center;
+color: #C4C4C4;
+background: #282830;
+border: none;
+}
+.button:hover{
+    background-color: blueviolet ;
+}
+h4{
+    color: blueviolet;
+    font-family: Lexend Deca;
+font-size: 24px;
+font-weight: 400;
+line-height: 30px;
+text-align: center;
+margin-top: 50px;
+}
+p{
+    color: white;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+    width: 415px;
+    margin-left: 530px;
+    margin-top: 20px;
+}
+#l1{
+    color: white;
+    width: 300px;
+    font-family: Lexend Deca;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    position: relative;
+    top: -1056px;
+    left: 91px;
+}
+#l2{
+    color: white;
+    width: 285px;
+    font-family: Lexend Deca;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    position: relative;
+    top: -1167px;
+    left: 420px;
+}
+#l3{
+    color: white;
+    width: 285px;
+    font-family: Lexend Deca;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    position: relative;
+    top: -1276px;
+    left: 763px;
+}
+#l4{
+    color: white;
+    width: 285px;
+    font-family: Lexend Deca;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    position: relative;
+    top: -1395px;
+    left: 1092px;
+}
+#l5{    color: white;
+    width: 285px;
+    font-family: Lexend Deca;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    position: relative;
+    top: -1260px;
+    left: 100px;
+}
+#l6{
+    color: white;
+    width: 285px;
+    font-family: Lexend Deca;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    position: relative;
+    top: -1370px;
+    left: 430px;
+}
+#l7{
+    color: white;
+    width: 285px;
+    font-family: Lexend Deca;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    position: relative;
+    top: -1480px;
+    left: 760px;
+}
+#l8{
+    color: white;
+    width: 285px;
+    font-family: Lexend Deca;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    position: relative;
+    top: -1595px;
+    left: 1090px;
+}
+#l9{    color: white;
+    width: 285px;
+    font-family: Lexend Deca;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    position: relative;
+    top: -1460px;
+    left: 95px;}
+    #l10{  color: white;
+        width: 285px;
+        font-family: Lexend Deca;
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 20px;
+        position: relative;
+        top: -1570px;
+        left: 425px;}
+#l11{      color: white;
+    width: 285px;
+    font-family: Lexend Deca;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    position: relative;
+    top: -1660px;
+    left: 760px;
+}
+#l12{
+    color: white;
+    width: 285px;
+    font-family: Lexend Deca;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    position: relative;
+    top: -1760px;
+    left: 1090px;
+}
+#l13{
+    color: white;
+    width: 285px;
+    font-family: Lexend Deca;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    position: relative;
+    top: -1605px;
+    left: 100px;
+}
+#l14{
+    color: white;
+    width: 285px;
+    font-family: Lexend Deca;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    position: relative;
+    top: -1700px;
+    left: 430px;
+    }
+    #l15{
+        color: white;
+        width: 285px;
+        font-family: Lexend Deca;
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 20px;
+        position: relative;
+        top: -1790px;
+        left: 760px;
+    }
+    #l16{
+        color: white;
+        width: 285px;
+        font-family: Lexend Deca;
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 20px;
+        position: relative;
+        top: -1895px;
+        left: 1090px;
+    }
+    #button-header{
+        color: white;
+        background: transparent;
+        border: none;
+        border: 1px solid #8257E6;
+        border-radius: 30px;
+        width: 100px;
+        cursor: pointer;
+        height: 20px;
+    }
+    #button-header:hover{
+        background-color: cadetblue;
+    }

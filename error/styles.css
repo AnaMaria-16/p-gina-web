@@ -1,0 +1,85 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #13131F;
+}
+.error{
+color: #C4C4C4;
+    margin-left: 665px;
+    margin-top: 25px;
+}
+.link{
+    margin-top: 30px;
+    margin-left: 90px;
+}
+h2{
+    font-family: Lexend Deca;
+    font-size: 50px;
+    width: 392px;
+    font-weight: 400;
+    line-height: 60px;
+    text-align: left;
+    color: white;
+    margin-left: 140px;
+    margin-top: 140px;
+}
+#p1{
+    color: white;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 446px;
+    margin-left: 145px;
+    margin-top: 40px;
+}
+#a{
+    color: blueviolet;
+    position: absolute;
+    top: 20px;
+    left: 140px;
+    font-family: Lexend Deca;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: right;
+    
+}
+img{
+    margin-left: 560px;
+    margin-top: -200px;
+}
+button{
+    background-color: blueviolet;
+    margin-top: 22px;
+    margin-left: 140px;
+    border: none;
+    border-radius: 3px;
+}
+button:hover{
+    background-color:darkmagenta ;
+}
+#lb{
+        font-family: Lexend Deca;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 34px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    }
+    #p2{
+        color: white;
+        margin-left: 820px;
+        width: 380px;
+        font-family: Inter;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 30px;
+        letter-spacing: 0em;
+        text-align: center;
+
+    }
